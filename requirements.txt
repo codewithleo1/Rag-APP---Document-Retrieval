@@ -1,0 +1,22 @@
+# Core dependencies
+streamlit>=1.31.0
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.10
+langchain-chroma>=0.0.1
+chromadb>=0.4.14
+openai>=1.8.0
+
+# Document processing
+unstructured>=0.10.30
+markdown>=3.4.3
+python-magic>=0.4.27
+python-magic-bin>=0.4.14; sys_platform == 'win32'
+
+# Embeddings and text processing
+tiktoken>=0.5.1
+sentence-transformers>=2.2.2
+
+# Utility packages
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
