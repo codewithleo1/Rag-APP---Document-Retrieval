@@ -15,8 +15,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system that combi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rag-qa-system.git
-   cd rag-qa-system
+   git clone https://github.com/codewithleo1/Rag-APP---Document-Retrieval.git
+   cd Rag-APP---Document-Retrieval
    ```
 
 2. Install the required dependencies:
